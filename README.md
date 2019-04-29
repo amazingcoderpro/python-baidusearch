@@ -1,7 +1,7 @@
 # Python Baidu Search API
 
 [![Version](https://img.shields.io/pypi/v/baidusearch.svg)](https://pypi.python.org/pypi/baidusearch)
-[![GitHub](https://github.com/wcadaydayup/python-baidusearch.svg?branch=master)](https://https://github.com/wcadaydayup/python-baidusearch)
+[![GitHub](https://github.com/wcadaydayup/python-baidusearch.svg?branch=master)](https://github.com/wcadaydayup/python-baidusearch)
 
 Unofficial Baidu Search API for Python.
 
