@@ -14,7 +14,7 @@ def read(fname):
 setup(
     install_requires=["requests>=2.18.4", "beautifulsoup4>=4.6.0", "lxml>=4.1.0"],
     name="baidusearch",
-    version="1.0.1",
+    version="1.0.2",
     author="Wu Charles",
     maintainer='Wu Charles',
     author_email="wcadaydayup@163.com",
