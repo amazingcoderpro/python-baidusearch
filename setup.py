@@ -14,7 +14,7 @@ def read(fname):
 setup(
     install_requires=[],
     name="baidusearch",
-    version="1.0.0",
+    version="1.0.1",
     author="Wu Charles",
     maintainer='Wu Charles',
     author_email="wcadaydayup@163.com",
