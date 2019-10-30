@@ -1,3 +1,4 @@
+# 自己手写的百度搜索接口的封装，pip安装，支持命令行执行。
 # Python Baidu Search API
 
 [![Version](https://img.shields.io/pypi/v/baidusearch.svg)](https://pypi.python.org/pypi/baidusearch)
