@@ -213,7 +213,7 @@ def run():
     主程序入口，支持命令得带参执行或者手动输入关键字
     :return:
     """
-    default_keyword = u"长风破浪小武哥"
+    default_keyword = u"Amazing Coder"
     num_results = 10
     debug = 0
 

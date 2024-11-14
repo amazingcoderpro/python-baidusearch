@@ -14,19 +14,19 @@ def read(fname):
 setup(
     install_requires=["requests>=2.18.4", "beautifulsoup4>=4.6.0", "lxml>=4.1.0"],
     name="baidusearch",
-    version="1.0.2",
+    version="1.0.3",
     author="Wu Charles",
     maintainer='Wu Charles',
     author_email="wcadaydayup@163.com",
     description="Baidu Search unofficial API for Python with no external dependencies",
     keywords="search-api baidu python",
-    url="https://github.com/wcadaydayup/python-baidusearch",
+    url="https://github.com/amazingcoderpro/python-baidusearch",
     packages=find_packages(),
     platforms=["all"],
     exclude_package_data={
         '': ['config.json', '__pycache__/*']
     },
-    long_description=read('README.md'),
+    long_description=read('README.rst'),
     classifiers=[
         "Development Status :: 5 - Production/Stable",
         "Topic :: Utilities",

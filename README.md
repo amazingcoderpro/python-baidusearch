@@ -1,27 +1,27 @@
-# 自己手写的百度搜索接口的封装，pip安装，支持命令行执行。
 # Python Baidu Search API
-
-[![Version](https://img.shields.io/pypi/v/baidusearch.svg)](https://pypi.python.org/pypi/baidusearch)
-[![GitHub](https://github.com/wcadaydayup/python-baidusearch.svg?branch=master)](https://github.com/wcadaydayup/python-baidusearch)
-
+自己手写的百度搜索接口的封装，pip安装，支持命令行执行。
 Unofficial Baidu Search API for Python.
 
 It uses web scraping in the background and is compatible with both **Python 2 and 3**.
 
 
-### Why this project?
+## Source
+https://github.com/amazingcoderpro/python-baidusearch
+
+
+## Why this project?
 
 for everyone who want to use baidu search.
 
 
-### Features
+## Features
 
 * Free unrestricted API, requires no key or credit card
 * Unicode support
 * Works for all Python versions (2 & 3)
 
 
-### Installation
+## Installation
 
 ```sh
 pip install baidusearch
@@ -29,7 +29,7 @@ pip install baidusearch
 
 
 
-### Using
+## Using
 
 ```sh
 > from baidusearch.baidusearch import search
@@ -82,7 +82,7 @@ search results：(total[10]items.)
 ```
 
 
-### Examples
+## Examples
 
 ```sh
 >>> from baidusearch.baidusearch import search
@@ -96,7 +96,7 @@ search results：(total[10]items.)
 ```
 
 
-### Warning
+## Warning
 
 Overusing this library might lead to your IP being blocked by Baidu Search servers.
 Searches through Chrome or another browser might still work but this library will stop working.
